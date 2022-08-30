@@ -1,0 +1,2 @@
+# Advertisment-Classification---Deploy-on-Google-App-Engine-
+This project includes working on text datasets that hold transcriptions for video of different ads, pre - processing the data into a more usable format, and training the deep learning LSTM model, which is based on Neural Net -Architecture and provide very high sequence-based datasets. Then created a Django project which become the base website hosted on Google Cloud.
