@@ -1,0 +1,12 @@
+1. Create a virtual environment.
+2. Install django version-3.2.0
+3. create a project: django-admin startproject <project_name>
+-> pip install -r requirements.txt
+4. cd into project.
+5. create an app: python manage.py startapp <app_name>
+6. Setting up the settings.py inside project directory.
+7. run the command to initialize the tables: python manage.py migrate
+8. run the command: python manage.py runserver
+
+->When creating your private key using puttyGen, check the "save private key",
+I might have mistakenly said the public key.
